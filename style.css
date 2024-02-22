@@ -1,0 +1,100 @@
+.ab{
+    color: white;
+    float: right;
+    font-family:'Times NewRoman', Times, serif;
+    text-decoration: none;
+   padding-right: 35px;
+   font-size: x-large;
+}
+
+.aa{
+    color: white;
+    float: right;
+    font-family:'Times NewRoman', Times, serif;
+    text-decoration: none;
+   padding-right: 35px;
+   font-size: x-large;
+  
+}
+.aa:hover{
+    color: #00c6ba;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+.head{
+    color: white;
+    font-family:'Times NewRoman', Times, serif;
+    padding-left: 20px;
+}
+
+body{
+    background-image: url(img1.png);
+}
+
+.xyz{
+    color: white;
+    font-family:'Times NewRoman', Times, serif;
+    font-weight: bold;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 150px;
+    margin: 0%;
+}
+
+.one{
+    color: white;
+    font-family:'Times NewRoman', Times, serif;
+    font-weight: bold;
+    font-size: 60px;
+    text-align: center;
+    margin: 0%;
+    /* padding-top: 150px; */
+}
+
+.two{
+    padding-left: 50px;
+    /* padding-right: 10px; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+.three{
+    padding-left: 43%;
+    padding-top: 30px;
+    margin: 0%;
+    /* border-radius: 50%; */
+}
+
+.e{
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+.f{
+    padding-left: 43%;
+    padding-top: 20px;
+    margin: 0%;
+}
+
+.button{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+.button:hover{
+    background-color: #00c6ba;
+}
+
+.g{
+    padding-left: 705px;
+    padding-top: 20px;
+}
